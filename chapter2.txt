@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I am an aspiring software dev
 
+=======
+I am from Alpha centurian 80A
+>>>>>>> alien-plot
