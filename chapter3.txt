@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I am learning webdev and dsa
-=======
-I am here to help earth
->>>>>>> alien-plot
+I am here to rule humans
